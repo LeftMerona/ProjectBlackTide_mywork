@@ -1,0 +1,236 @@
+{
+  "0": {
+    "id": "0",
+    "name": "empty_flashlight",
+    "eItemType": "0",
+    "elementindex": "10",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "flashlight"
+  },
+  "1": {
+    "id": "1",
+    "name": "battery",
+    "eItemType": "0",
+    "elementindex": "10",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "battery"
+  },
+  "2": {
+    "id": "2",
+    "name": "flashlight",
+    "eItemType": "2",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "flashlight"
+  },
+  "3": {
+    "id": "3",
+    "name": "note_1",
+    "eItemType": "1",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "note_1"
+  },
+  "4": {
+    "id": "4",
+    "name": "key_1",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "key_1"
+  },
+  "5": {
+    "id": "5",
+    "name": "piece_of_puzzle_1",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "slidepuzzle_1"
+  },
+  "6": {
+    "id": "6",
+    "name": "bunch_of_kye1",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "key_1"
+  },
+  "7": {
+    "id": "7",
+    "name": "bunch_of_kye2",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "key_2"
+  },
+  "8": {
+    "id": "8",
+    "name": "medical_record",
+    "eItemType": "1",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "medical_record"
+  },
+  "9": {
+    "id": "9",
+    "name": "piece_of_puzzle_2",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "slidepuzzle_3"
+  },
+  "10": {
+    "id": "10",
+    "name": "Piece_of_puzzle_3",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "slidepuzzle_3"
+  },
+  "11": {
+    "id": "11",
+    "name": "key_2",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "key_2"
+  },
+  "12": {
+    "id": "12",
+    "name": "Electrical_circuit_piece",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "Electrical_circuit_piece"
+  },
+  "13": {
+    "id": "13",
+    "name": "driver",
+    "eItemType": "2",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "driver"
+  },
+  "14": {
+    "id": "14",
+    "name": "Corvia_ocean_newspaper",
+    "eItemType": "1",
+    "elementindex": "20",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "CM"
+  },
+  "15": {
+    "id": "15",
+    "name": "answer_of_Logic_Lab",
+    "eItemType": "0",
+    "elementindex": "20",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "CM_Hint"
+  },
+  "16": {
+    "id": "16",
+    "name": "Corvia_news_hint",
+    "eItemType": "1",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "CM_End"
+  },
+  "17": {
+    "id": "17",
+    "name": "electical_room_battery",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "electrical_room_battery"
+  },
+  "18": {
+    "id": "18",
+    "name": "battery_inspection_manual",
+    "eItemType": "1",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "battery_manual"
+  },
+  "19": {
+    "id": "19",
+    "name": "ai_tablet",
+    "eItemType": "2",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "ai_tablet"
+  },
+  "20": {
+    "id": "20",
+    "name": "emergency_manual",
+    "eItemType": "2",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "emergency_manual"
+  },
+  "21": {
+    "id": "21",
+    "name": "forklift_key",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "forklift_key"
+  },
+  "22": {
+    "id": "22",
+    "name": "Contraband_list",
+    "eItemType": "1",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "Contraband_list"
+  },
+  "23": {
+    "id": "23",
+    "name": "Operation_Plan",
+    "eItemType": "1",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "Operation_Plan"
+  },
+  "24": {
+    "id": "24",
+    "name": "Security_Key",
+    "eItemType": "3",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "Security_Key"
+  },
+  "25": {
+    "id": "25",
+    "name": "international_Signal_Code",
+    "eItemType": "1",
+    "elementindex": "-1",
+    "tableName": "Table_ItemName",
+    "isused": "FALSE",
+    "spritename": "international_Signal_Code"
+  }
+}
